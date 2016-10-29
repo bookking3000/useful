@@ -1,3 +1,3 @@
 # useful-things
-An Summary of Java methods that could be used in other Projects
-You are allowed tu use this
+An Summary of useful Java methods that could be used in other Projects again
+You are allowed to use these in your projects
